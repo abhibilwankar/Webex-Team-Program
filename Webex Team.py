@@ -2,8 +2,7 @@ import requests
 import json
 from pprint import pprint
 
-##token = 'ZDM1NjkxYzYtNWFlOC00NDBhLWEwZjAtMDgxZmI0N2M3OTMyZDc0ZTk3MTYtODU5_PF84_consumer'
-token = 'NWU0NTkzODEtMWJlYS00OTNjLWI4M2MtMmY0YTVjOTNkMGEzOTJlZmFmMDctNTAw_PF84_consumer'
+#token = 'NWU0NTkzODEtMWJlYS00OTNjLWI4M2MtMmY0YTVjOTNkMGEzOTJlZmFmMDctNTAw_PF84_consumer'
 
 
 ##########  Create a TEAM ##########
